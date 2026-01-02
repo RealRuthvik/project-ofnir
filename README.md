@@ -27,7 +27,7 @@ OFNIR is a high performance, professional AI fitness trainer wrapper built using
 ## **🔧 Installation**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/RealRuthvik/project-ofnir.git\](https://github.com/RealRuthvik/project-ofnir.git)  
+   git clone [https://github.com/RealRuthvik/project-ofnir.git](https://github.com/RealRuthvik/project-ofnir.git)  
    cd project-ofnir
 
 2. **Install dependencies:**  
