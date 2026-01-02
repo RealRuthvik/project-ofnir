@@ -1,4 +1,7 @@
-# **OFNIR AI Personal Trainer**
+**Hackathon Disclaimer**
+This project was vibecoded with Gemini during our first year of college, our team managed the debugging and implementation specifically for a chatbot hackathon. It represents a fast paced development cycle focused on functionality and implementation rather than building a product through traditional coding.
+
+## **OFNIR AI Personal Trainer**
 
 OFNIR is a high performance, professional AI fitness trainer wrapper built using **Gradio**, **LangGraph**, and **Groq**. It is designed to provide users with structured, biometric validated training and nutrition plans while maintaining a sleek, dark themed user interface.
 
