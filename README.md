@@ -56,4 +56,4 @@ OFNIR is an AI-driven tool provided for informational purposes. It is not a subs
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-**Made in collaboration with https://github.com/fullord-1**
+**Made in collaboration with https://github.com/fullord-1 & https://github.com/Subhan206**
